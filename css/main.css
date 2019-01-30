@@ -41,12 +41,16 @@ body {
       color: #6d7993;
   }
   
-  a {
+  a:link {
     color: #96858f;
   }
 
   a:visited {
     color:#5f535a;
+  }
+
+  a:hover {
+    color:#c4bbc0;
   }
   
   p, li {
