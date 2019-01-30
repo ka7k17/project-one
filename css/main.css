@@ -44,6 +44,10 @@ body {
   a {
     color: #96858f;
   }
+
+  a:visited {
+    color:#5f535a;
+  }
   
   p, li {
     font-family: 'Noto Serif TC', serif;
